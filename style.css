@@ -54,6 +54,9 @@ body {
     color: var(--color-gray);
     font-weight: var(--weight-regular);
 }
+.container .order-summary h2{
+    font-weight:500;
+}
 
 .container .photo {
     width: 400px;
